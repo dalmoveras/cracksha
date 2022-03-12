@@ -1,4 +1,4 @@
-# SHA1 Dictionary Cracker
+# CRACKSHA - AN IDIOTIC RUST TOOL THAT PERFORMS DICTIONARY ATTACK
 
 A little #rust program to perform a dictionary #attack again #sha1 hash value.
 
