@@ -1,5 +1,4 @@
-# CRACKSHA - AN IDIOTIC RUST TOOL THAT PERFORMS DICTIONARY ATTACK
-
+# CRACKSHA 
 A little #rust program to perform a dictionary #attack again #sha1 hash value.
 
 ### Requirements:
